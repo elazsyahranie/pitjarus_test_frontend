@@ -8,6 +8,7 @@ const data = {
   datasets: [
     {
       data: [12, 19, 3, 5, 2, 3],
+      backgroundColor: ["red"],
     },
   ],
 };
